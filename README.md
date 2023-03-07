@@ -12,3 +12,4 @@ Co mám, co nemám, kolik mám dokumentace.
 
 Prezentovat 15.3.
 
+[[Úvodní_prezentace.pdf]]
